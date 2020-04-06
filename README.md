@@ -1,7 +1,17 @@
-# sherman6
+# Welcome!  
 
-### This is a readme file for my repository. 
+## This is a website for my repositories. 
 
-Will work on this as time permits.
+I will work on this as my time permits.  
 
-__Who Am I:__  A curious researcher with passion for data science. Interests: attitude & opinion research; consumer perceptions; psychology; machine learning; media bias.
+
+### Who Am I
+
+A curious researcher with passion for data science.  Interests include attitude & opinion research; consumer perceptions; psychology; machine learning; and media bias.  
+
+
+_sherman6, 2020_  
+
+___
+
+#### [Jump to Tutorials](https://sherman6.github.io/tutorials/)  
