@@ -1,6 +1,8 @@
 # Welcome!  
 
-## This is a website for my repositories. 
+I'm sherman6.  Nice to see you!  
+
+## This is a website for my repositories  
 
 I will work on this as my time permits.  
 
