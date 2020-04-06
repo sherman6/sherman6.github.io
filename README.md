@@ -4,7 +4,7 @@
 
 I will work on this as my time permits.  
 
-### Who Am I
+### Who Am I?  
 
 A curious researcher with passion for data science.  Interests include attitude & opinion research; consumer perceptions; psychology; machine learning; and media bias.  
 
